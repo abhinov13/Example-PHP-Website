@@ -1,0 +1,19 @@
+﻿body
+{
+    background-color: black;
+    color: white;
+}
+
+.contactContainer {
+    color: black;
+    padding-top: 300px;
+    padding: 50px;
+    border: 2px solid red;
+    margin: auto;
+    background-color: rgb(255, 221, 89);
+    height: 300px;
+    width: 300px;
+    margin-bottom: 70px;
+    border-radius: 10px;
+}
+
