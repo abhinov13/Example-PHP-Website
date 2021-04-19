@@ -1,0 +1,52 @@
+﻿.contactInfo {
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    border-top: 2px solid white;
+    background-color: black;
+    height: 200px;
+    width: 100%;
+}
+.leftCol {
+    color: white;
+    padding-top: 30px;
+    line-height: 200%;
+}
+
+.midCol {
+    color: white;
+    padding-top: 30px;
+    line-height: 200%;
+}
+.rightCol {
+    color: white;
+    font-size: 12px;
+    padding-top: 30px;
+}
+.inputField {
+    display: inline-block;
+    padding-top: 20px;
+}
+
+.inputField input 
+{
+    color: white;
+
+    margin-top: 1px;
+   background-color: #34495e;
+    border: 0px;
+    padding: 5px;
+}
+
+.submitButton input
+{
+    width: 210px;
+    height:35px;
+    background-color: #ffdd59;
+}
+.submitButton input:hover
+{
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+}
